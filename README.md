@@ -1,22 +1,22 @@
-#About the project
-###This website is my first minor project created using `Asp.net`. This is an E-commerce website named Èrrôr MART.
+# About the project
+### This website is my first minor project created using ` Asp.net `. This is an E-commerce website named Èrrôr MART.
 _This website has two modules._
->Admin Module
+> Admin Module
 ```
 View list of customer
 View order
 Set order status
 ```
->Customer Module
+> Customer Module
 ```
 Edit their data (`Profile` `Password`)
 View Product
 Add product to their cart
 Place order
 ```
->Login Module
+> Login Module
 
-##Technologies Used
+##  Technologies Used
 * ![HTML](https://img.shields.io/badge/HTML-239?style=for-the-badge&logo=html5&logoColor=white)
 * ![CSS](https://img.shields.io/badge/CSS-0175C2?&style=for-the-badge&logo=css3&logoColor=whit)
 
@@ -28,40 +28,40 @@ Place order
 *  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 
-##Images
-###Home Page
+##  Images
+### Home Page
 ![Index Page](https://github.com/devilvirus07/ecommerce/blob/master/images(readme)/index.png)
-###About Us
+### About Us
 ![About Us](https://github.com/devilvirus07/ecommerce/blob/master/images(readme)/about.png)
-##Customer Site
-###Customer Registration Page
-![Customer Registration Page](https://github.com/devilvirus07/ecommerce/blob/master/images(readme)/)
-###Customer Login Page
+## Customer Site
+### Customer Registration Page
+![Customer Registration Page](https://github.com/devilvirus07/ecommerce/blob/master/images(readme)/cust_reg.png)
+### Customer Login Page
 ![Customer Login Page](https://github.com/devilvirus07/ecommerce/blob/master/images(readme)/cust_login.png)
-###Customer Home Page
+### Customer Home Page
 ![Customer Home Page](https://github.com/devilvirus07/ecommerce/blob/master/images(readme)/cust_home.png)
-###View Product
+### View Product
 ![View Product](https://github.com/devilvirus07/ecommerce/blob/master/images(readme)/view_prod_cust.png)
-###View Order
+### View Order
 ![View Order](https://github.com/devilvirus07/ecommerce/blob/master/images(readme)/cust_view_order.png)
-###Change Paasword
+### Change Paasword
 ![Change Password](https://github.com/devilvirus07/ecommerce/blob/master/images(readme)/change_pwd.png)
-###Edit Profile
+### Edit Profile
 ![Edit Profile](https://github.com/devilvirus07/ecommerce/blob/master/images(readme)/edit_profile.png)
-###View Cart
+### View Cart
 ![View Cart](https://github.com/devilvirus07/ecommerce/blob/master/images(readme)/view_cart.png)
-##Admin Site
-###Login
+## Admin Site
+### Login
 ![Admin Login](https://github.com/devilvirus07/ecommerce/blob/master/images(readme)/admin_login.png)
-###Admin Home
+### Admin Home
 ![Admin Home](https://github.com/devilvirus07/ecommerce/blob/master/images(readme)/admin_home.png)
-###Add Product
+### Add Product
 ![Add Product](https://github.com/devilvirus07/ecommerce/blob/master/images(readme)/add_prod.png)
-###View Product
+### View Product
 ![View Product](https://github.com/devilvirus07/ecommerce/blob/master/images(readme)/view_prod_admin.png)
-###View Customer
+### View Customer
 ![View Customer](https://github.com/devilvirus07/ecommerce/blob/master/images(readme)/view_cust.png)
-###View Booking
+### View Booking
 ![View Booking](https://github.com/devilvirus07/ecommerce/blob/master/images(readme)/view_booking.png)
-###Set Order Status
+### Set Order Status
 ![Set Order Status](https://github.com/devilvirus07/ecommerce/blob/master/images(readme)/set_order_status.png)
