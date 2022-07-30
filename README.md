@@ -9,7 +9,8 @@ Set order status
 ```
 > Customer Module
 ```
-Edit their data (` Profile ` ` Password `)
+Edit Profile
+Change Password
 View Product
 Add product to their cart
 Place order
